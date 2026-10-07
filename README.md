@@ -25,17 +25,17 @@ JavaScript · TypeScript · React · Next.js · Python · Kotlin · Jetpack Comp
 
 | Project | Focus | Technologies |
 | --- | --- | --- |
-| [ProcessDock](https://github.com/snakeneo482/ProcessDock) | Local invoice processing: batch PDF uploads, invoice splitting, validation, and approval workflows | Python, FastAPI, SQLAlchemy |
-| [InstaDrop](https://github.com/snakeneo482/InstaDrop) | Android media-saving app with a share-to-download workflow | Kotlin, Jetpack Compose |
-| [ClipMind AI](https://github.com/snakeneo482/ClipMind-AI) | Experimental livestream highlight clipper using audio and chat activity | Python, FastAPI, Next.js |
+| [ProcessDock](https://github.com/builtbyuba/ProcessDock) | Local invoice processing: batch PDF uploads, invoice splitting, validation, and approval workflows | Python, FastAPI, SQLAlchemy |
+| [InstaDrop](https://github.com/builtbyuba/InstaDrop) | Android media-saving app with a share-to-download workflow | Kotlin, Jetpack Compose |
+| [ClipMind AI](https://github.com/builtbyuba/ClipMind-AI) | Experimental livestream highlight clipper using audio and chat activity | Python, FastAPI, Next.js |
 
 ### ProcessDock
 
 Upload multiple PDFs or one PDF containing several invoices. ProcessDock separates invoices in supported text PDFs, extracts and validates their data, and routes them for automatic approval or manual review. Its dashboard brings processing results and items needing attention into one place, helping small businesses reduce manual invoice work.
 
-[![ProcessDock dashboard](https://raw.githubusercontent.com/snakeneo482/ProcessDock/main/docs/screenshots/dashboard.png)](https://github.com/snakeneo482/ProcessDock)
+[![ProcessDock dashboard](https://raw.githubusercontent.com/builtbyuba/ProcessDock/main/docs/screenshots/dashboard.png)](https://github.com/builtbyuba/ProcessDock)
 
-[Explore ProcessDock](https://github.com/snakeneo482/ProcessDock)
+[Explore ProcessDock](https://github.com/builtbyuba/ProcessDock)
 
 These projects are shared as source code; each repository documents its scope and setup requirements. AI tools assisted development.
 
