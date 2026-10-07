@@ -25,11 +25,19 @@ JavaScript · TypeScript · React · Next.js · Python · Kotlin · Jetpack Comp
 
 | Project | Focus | Technologies |
 | --- | --- | --- |
+| [ProcessDock](https://github.com/snakeneo482/ProcessDock) | Local invoice processing: batch PDF uploads, invoice splitting, validation, and approval workflows | Python, FastAPI, SQLAlchemy |
 | [InstaDrop](https://github.com/snakeneo482/InstaDrop) | Android media-saving app with a share-to-download workflow | Kotlin, Jetpack Compose |
 | [ClipMind AI](https://github.com/snakeneo482/ClipMind-AI) | Experimental livestream highlight clipper using audio and chat activity | Python, FastAPI, Next.js |
-| [PineTester](https://github.com/snakeneo482/PineTester) | Research tool for backtesting a subset of Pine strategies against historical market data | Python, FastAPI, JavaScript |
 
-These are learning and experimental projects, shared as source code rather than live services. AI tools assisted development; each repository documents its scope and setup requirements. Trading-related projects are not financial advice.
+### ProcessDock
+
+Upload multiple PDFs or one PDF containing several invoices. ProcessDock separates invoices in supported text PDFs, extracts and validates their data, and routes them for automatic approval or manual review. Its dashboard brings processing results and items needing attention into one place, helping small businesses reduce manual invoice work.
+
+[![ProcessDock dashboard](https://raw.githubusercontent.com/snakeneo482/ProcessDock/main/docs/screenshots/dashboard.png)](https://github.com/snakeneo482/ProcessDock)
+
+[Explore ProcessDock](https://github.com/snakeneo482/ProcessDock)
+
+These projects are shared as source code; each repository documents its scope and setup requirements. AI tools assisted development.
 
 ## Let's work together
 
