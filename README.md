@@ -6,7 +6,7 @@ I build websites, web applications, and practical digital tools for small busine
 
 I completed CodeAcademy's Advanced Programming course and continue developing my skills through hands-on projects. I'm available for freelance projects and small-business websites.
 
-[Visit ubadev.com](https://ubadev.com) · [Get in touch](mailto:ubadomantas@gmail.com)
+[Get in touch](mailto:ubadomantas@gmail.com)
 
 ## What I can help with
 
@@ -45,4 +45,3 @@ Have a website or app idea? Tell me what you need, and we can discuss a realisti
 
 **Email:** [ubadomantas@gmail.com](mailto:ubadomantas@gmail.com)
 
-**Website:** [ubadev.com](https://ubadev.com)
