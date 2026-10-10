@@ -1,47 +1,51 @@
 # Dom Uba
 
-### App & Web Developer · Lithuania
+### Website Development · Python Automations · Custom TradingView Pine Script
 
-I build websites, web applications, and practical digital tools for small businesses, independent professionals, and new ideas. My focus is on clear design, usability, and straightforward communication.
+Developer based in Lithuania. I build websites, automate repetitive work with Python, and create custom TradingView indicators and chart tools with Pine Script.
 
-I completed CodeAcademy's Advanced Programming course and continue developing my skills through hands-on projects. I'm available for freelance projects and small-business websites.
+My focus is on clear design, useful features, and straightforward communication. I'm available for freelance projects.
 
 [Get in touch](mailto:ubadomantas@gmail.com)
 
 ## What I can help with
 
-- **Websites & landing pages** — clear, responsive websites for businesses and personal brands.
-- **Web applications** — custom interfaces, dashboards, and practical tools.
-- **WordPress** — setup, customization, and ongoing website maintenance.
-- **Python & automation** — scripts and custom tools for repetitive tasks and data workflows.
+| Service | What I build |
+| --- | --- |
+| **Website Development** | Responsive business websites, landing pages, WordPress sites, and custom web applications. |
+| **Python Automations** | Scripts and tools for repetitive tasks, file processing, and data workflows. |
+| **Custom TradingView Pine Script** | Custom indicators, chart visuals, dashboards, alerts, and updates to existing Pine Script code. |
 
 We agree on the scope, price, and timeline before work begins. You work directly with me, from the first conversation to the handover.
 
+## Selected projects
+
+| Project | What it does | Technologies |
+| --- | --- | --- |
+| [SMCLT · Rinkos Struktūra LT](https://github.com/builtbyuba/SMCLT) | Lithuanian market structure indicator with support and resistance zones, BOS, direction changes, EMA 200, and a compact dashboard. | Pine Script v6, TradingView |
+| [ProcessDock](https://github.com/builtbyuba/ProcessDock) | Invoice processing with PDF uploads, data validation, and approval workflows. | Python, FastAPI, SQLAlchemy |
+| [PineTester](https://github.com/builtbyuba/PineTester) | Web app for testing a supported subset of Pine Script v5 strategies against historical Binance data. | Web application, Pine Script tooling |
+
+### SMCLT · Rinkos Struktūra LT
+
+A minimal charting tool with Lithuanian labels and settings. The repository includes the Pine Script source, real TradingView screenshots, installation instructions, and an explanation of how the indicator works.
+
+[![SMCLT on TradingView](https://raw.githubusercontent.com/builtbyuba/SMCLT/main/docs/images/grafikas.png)](https://github.com/builtbyuba/SMCLT)
+
+[Explore SMCLT](https://github.com/builtbyuba/SMCLT)
+
+**More projects:** [InstaDrop](https://github.com/builtbyuba/InstaDrop) · [ClipMind AI](https://github.com/builtbyuba/ClipMind-AI) · [Candrivo](https://github.com/builtbyuba/Candrivo)
+
+Each repository explains its scope, setup requirements, and license. AI tools assisted development.
+
 ## Technologies I work with
 
-JavaScript · TypeScript · React · Next.js · Python · Kotlin · Jetpack Compose · WordPress
+JavaScript · TypeScript · React · Next.js · WordPress · Python · Pine Script · Kotlin · Jetpack Compose
 
-## Three projects to explore
-
-| Project | Focus | Technologies |
-| --- | --- | --- |
-| [ProcessDock](https://github.com/builtbyuba/ProcessDock) | Local invoice processing: batch PDF uploads, invoice splitting, validation, and approval workflows | Python, FastAPI, SQLAlchemy |
-| [InstaDrop](https://github.com/builtbyuba/InstaDrop) | Android media-saving app with a share-to-download workflow | Kotlin, Jetpack Compose |
-| [ClipMind AI](https://github.com/builtbyuba/ClipMind-AI) | Experimental livestream highlight clipper using audio and chat activity | Python, FastAPI, Next.js |
-
-### ProcessDock
-
-Upload multiple PDFs or one PDF containing several invoices. ProcessDock separates invoices in supported text PDFs, extracts and validates their data, and routes them for automatic approval or manual review. Its dashboard brings processing results and items needing attention into one place, helping small businesses reduce manual invoice work.
-
-[![ProcessDock dashboard](https://raw.githubusercontent.com/builtbyuba/ProcessDock/main/docs/screenshots/dashboard.png)](https://github.com/builtbyuba/ProcessDock)
-
-[Explore ProcessDock](https://github.com/builtbyuba/ProcessDock)
-
-These projects are shared as source code; each repository documents its scope and setup requirements. AI tools assisted development.
+I completed CodeAcademy's Advanced Programming course and continue developing my skills through hands-on projects.
 
 ## Let's work together
 
-Have a website or app idea? Tell me what you need, and we can discuss a realistic scope and budget.
+Need a website, a Python automation, or a custom TradingView indicator? Tell me what you want to build, and we can discuss the scope and budget.
 
 **Email:** [ubadomantas@gmail.com](mailto:ubadomantas@gmail.com)
-
