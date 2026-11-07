@@ -39,9 +39,9 @@ A free website audit tool for developers that runs entirely on your Windows PC. 
 
 ### [VisionTrade](https://github.com/builtbyuba/VisionTrade)
 
-AI market analysis for gold and Bitcoin. It brings price, structure and order flow (CVD, delta, key levels) into one terminal, and an AI futures trading bot runs on the same engine. It's an analysis tool, not investment advice.
+A clearer view of gold (XAU/USD) and Bitcoin (BTC/USDT). It shows live market structure, order flow, volatility and value on the 15m–1h timeframes. A daily **Day Signal** scans crypto futures, grades the setups and has an AI review them, then publishes the best one with a public track record. A market news feed sits alongside. It's for information only, not financial advice.
 
-**Live:** [visiontradeai.app](https://visiontradeai.app) · [bot.visiontradeai.app](https://bot.visiontradeai.app) · [Google Play](https://play.google.com/store/apps/details?id=com.visiontradeaipro.myapp)
+**Get it:** [visiontradeai.app](https://www.visiontradeai.app) · [Google Play](https://play.google.com/store/apps/details?id=com.visiontradeaipro.myapp)
 
 ### [Candrivo](https://github.com/builtbyuba/Candrivo)
 
