@@ -21,12 +21,27 @@ My focus is mobile app development: creating straightforward experiences that ma
 ## What I'm building toward
 
 - **Android & Google Play** — my current focus is building Android apps and preparing them for release on Google Play.
+- **Windows & the Microsoft Store**: my first desktop app, UBA Audit Suite, is now live and free on the Microsoft Store.
 - **iOS & the Apple App Store** — a future step is bringing my work to iPhone and expanding to the Apple ecosystem.
 - **Beyond mobile** — I also work on web apps and automation tools when an idea calls for them.
 
 This GitHub is where I share projects, experiments and the work behind that journey.
 
 ## Main projects
+
+### [UBA Audit Suite](https://github.com/builtbyuba/uba-audit-suite-windows) · free on the Microsoft Store
+
+A free website audit tool for developers that runs entirely on your Windows PC. One audit covers technical SEO, security headers and TLS, a passive OWASP ZAP scan, Lighthouse performance and WCAG accessibility. You get a health score, findings grouped by severity and exports you can send to a client.
+
+<a href="https://apps.microsoft.com/detail/9PM20PZWM37R?hl=en-us&gl=US&ocid=pdpshare"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft" width="180"></a>
+
+**Built with:** Python · FastAPI · Next.js · WebView2 · Lighthouse · OWASP ZAP
+
+### [VisionTrade](https://github.com/builtbyuba/VisionTrade)
+
+AI market analysis for gold and Bitcoin. It brings price, structure and order flow (CVD, delta, key levels) into one terminal, and an AI futures trading bot runs on the same engine. It's an analysis tool, not investment advice.
+
+**Live:** [visiontradeai.app](https://visiontradeai.app) · [bot.visiontradeai.app](https://bot.visiontradeai.app) · [Google Play](https://play.google.com/store/apps/details?id=com.visiontradeaipro.myapp)
 
 ### [Candrivo](https://github.com/builtbyuba/Candrivo)
 
